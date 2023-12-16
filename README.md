@@ -9,7 +9,7 @@
     - [Day - 03 -> Stacks, Queues and Elementary Sorts](#day---03---stacks-queues-and-elementary-sorts)
     - [Day - 04 -> Merge Sort & Quick Sort](#day---04---merge-sort--quick-sort)
     - [Day - 05 -> Priority Queue and Heap](#day---05---priority-queue-and-heap)
-    - [Day - 06 -> Binary Search Tree](#day---06---binary-search-tree)
+    - [Day - 06 -> Symbol Tables & Binary Search Tree](#day---06---symbol-tables--binary-search-tree)
 - [Feedback](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -68,7 +68,8 @@ All the features of this course are available for free.  It does not offer a cer
     Min Binary Heap
     Heap Sort
 
-### Day - 06 -> Binary Search Tree
+### Day - 06 -> Symbol Tables & Binary Search Tree
+    Symbol Table
     Insert
     Delete
     Find min

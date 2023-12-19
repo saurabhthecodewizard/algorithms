@@ -25,16 +25,6 @@ public class Main {
         bst.print();
 
         System.out.println();
-        System.out.println("After deleting (4)");
-        bst.delete(4);
-        bst.print();
-
-        System.out.println();
-        System.out.println("After deleting (1)");
-        bst.delete(1);
-        bst.print();
-
-        System.out.println();
         System.out.println("After deleting (9)");
         bst.delete(9);
         bst.print();

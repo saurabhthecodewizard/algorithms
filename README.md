@@ -10,6 +10,7 @@
     - [Day - 04 -> Merge Sort & Quick Sort](#day---04---merge-sort--quick-sort)
     - [Day - 05 -> Priority Queue and Heap](#day---05---priority-queue-and-heap)
     - [Day - 06 -> Symbol Tables & Binary Search Tree](#day---06---symbol-tables--binary-search-tree)
+    - [Day - 07 -> Balanced Search Tree](#day---07---balanced-search-tree)
 - [Feedback](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -78,6 +79,11 @@ All the features of this course are available for free.  It does not offer a cer
     InOrder - Recursive & Iterative
     PreOrder - Recursive & Iterative
     PostOrder - Recursive & Iterative
+
+### Day - 07 -> Balanced Search Tree
+    Balanced Search Trees
+    Red Black BST
+    B-Tree
 
 # Feedback
 

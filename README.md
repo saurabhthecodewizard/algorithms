@@ -89,6 +89,12 @@ All the features of this course are available for free.  It does not offer a cer
     Geometric Search
     Kd-Trees
 
+### Day - 09 - Hash Tables
+    Hash Function
+    Separate Chaining
+    Linear Probing
+    Hash Table Context
+
 # Feedback
 
 If you have any feedback, please reach out at skmahajan4998@gmail.com

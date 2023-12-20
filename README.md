@@ -85,6 +85,10 @@ All the features of this course are available for free.  It does not offer a cer
     Red Black BST
     B-Tree
 
+### Day - 08 - Geometric Search
+    Geometric Search
+    Kd-Trees
+
 # Feedback
 
 If you have any feedback, please reach out at skmahajan4998@gmail.com

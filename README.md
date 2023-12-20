@@ -11,6 +11,8 @@
     - [Day - 05 -> Priority Queue and Heap](#day---05---priority-queue-and-heap)
     - [Day - 06 -> Symbol Tables & Binary Search Tree](#day---06---symbol-tables--binary-search-tree)
     - [Day - 07 -> Balanced Search Tree](#day---07---balanced-search-tree)
+    - [Day - 08 - Geometric Search](#day---08---geometric-search)
+    - [Day - 09 - Hash Tables](#day---09---hash-tables)
 - [Feedback](#feedback)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
